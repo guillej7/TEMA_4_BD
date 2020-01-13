@@ -1,5 +1,4 @@
 <?php
-
     //Variables para crear la conexión.
     $host = "localhost"; 
     $user = "root"; //Usuario (el que le indiquemos).

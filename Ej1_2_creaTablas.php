@@ -1,4 +1,5 @@
 <?php
+
     //Creamos la tabla almacenando el código SQL (create table) en una variable.
     $consulta1 = "CREATE TABLE usuario (
         id            int Primary key not null,
