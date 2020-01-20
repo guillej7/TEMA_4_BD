@@ -4,7 +4,7 @@
     $user = "root"; //Usuario (el que le indiquemos).
     $pwd = "2asir"; //Contraseña (la que le indiquemos).
 
-    $enlace = mysqli_connect($host, $user, $pwd); //Creamos la conexión a la BD.
+    $enlace = mysql_connect($host, $user, $pwd); //Creamos la conexión a la BD.
     $nombreBD = "BD_T4_GJMM"; //Asigno una variable con el nombre, así solo tengo que cambiarlo aquí.
 
     if (!$enlace){
