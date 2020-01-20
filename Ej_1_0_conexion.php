@@ -12,5 +12,5 @@
     )else {
         "Se ha realizado la conexión" //Realiza la conexión.
     }
-
+    mysql_select_db ($enlace, $nombreBD); //me conecto a la bd con los parámetros indicados.
 ?>
