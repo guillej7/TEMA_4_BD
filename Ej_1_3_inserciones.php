@@ -1,5 +1,7 @@
 <?php
 include ('.\Ej_1_0_conexion.php') //Enlazamos el php anterior con este.
+
+//inserto los datos en las tablas correspondientes
     $insercion1 = "INSERT INTO usuario (id, nombre, Apellidos, Edad, Direccion)
     VALUES (1, 'Guillermo', 'Munoz', 21, 'C/Picasso');"
 
