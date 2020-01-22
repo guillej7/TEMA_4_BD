@@ -9,7 +9,7 @@
         <form action="#" method="POST">
             <input type="submit" value="Crear BD" /> <br />
             <input type="submit" value="Crear Tabla Cliente" /> <br />
-            <input type="submit" value="Añadir Cliente y Actualizar/Borrar/buscar por su DNI" /> <br />
+            <input type="submit" value="Añadir Cliente y Actualizar/Borrar/buscar por su DNI" /><br />
             <input type="submit" value="Listar Clientes ordenados por nombre" /> <br />
         </form>
     </body>
